@@ -20,6 +20,6 @@ def hello(array)
         binding.pry
 
   end
-end
+  collection
 
-collection
+end
